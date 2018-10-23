@@ -1,0 +1,6 @@
+/bin
+/pkg
+*.swp
+*.test
+*.bak
+.DS_Store
