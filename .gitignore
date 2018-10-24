@@ -4,3 +4,8 @@
 *.test
 *.bak
 .DS_Store
+
+*.vpj
+*.vpw
+*.vpwhistu
+*.vtg
