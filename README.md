@@ -1,8 +1,8 @@
-#!/usr/bin/env bash
+### GoSelf
 
-go get github.com/mattn/goreman                 # (v0.0.10)
-go get github.com/julienschmidt/httprouter      # (v1.2)
-go get github.com/streadway/amqp                # (master)
-go get github.com/apache/thrift/lib/go/thrift   # (master)
-go get github.com/go-sql-driver/mysql           # (v1.4.0)
-go get github.com/go-redis/redis                # (v6.14.1)
+主要目的是做个第三方库代码备份，同时对Go的指定版本包管理不满意。   
+
+其中也加载了自己学习和封装的代码片段。   
+
+
+条目和版本见/INSTALL，卒……

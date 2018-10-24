@@ -24,4 +24,6 @@ service calc_service {
 
 // thrift -r --gen go:thrift_import=github.com/apache/thrift/lib/go/thrift shared.thrift 
 // thrift -r --gen go:thrift_import=github.com/apache/thrift/lib/go/thrift calcsrv.thrift 
+
+// Reference
 // https://github.com/apache/thrift/tree/master/tutorial/go

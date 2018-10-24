@@ -35,4 +35,5 @@ service SharedService {
 }
 
 
+// Bug Note:
 // https://github.com/jaegertracing/jaeger-client-go/issues/287
